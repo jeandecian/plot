@@ -1,0 +1,19 @@
+- name: Altair
+  website: https://altair-viz.github.io/
+  gallery: https://altair-viz.github.io/gallery/
+
+- name: Bokeh
+  website: https://bokeh.org/
+  gallery: https://docs.bokeh.org/en/latest/docs/gallery.html
+
+- name: Matplotlib
+  website: https://matplotlib.org/
+  gallery: https://matplotlib.org/stable/gallery/index.html
+
+- name: Plotly
+  website: https://plotly.com/python/
+  gallery: https://plotly.com/python/
+
+- name: Seaborn
+  website: https://seaborn.pydata.org/
+  gallery: https://seaborn.pydata.org/examples/index.html
